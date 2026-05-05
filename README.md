@@ -4,7 +4,7 @@
 
 ## 🎬 Video Demo
 
-[Link video demo](https://youtu.be/LINK_VIDEO_CUA_BAN)
+[Link video demo](https://drive.google.com/file/d/10uGywtBLw3-iyxxP7eB8wJjCHkdqvVya/view?usp=sharing)
 
 ---
 
