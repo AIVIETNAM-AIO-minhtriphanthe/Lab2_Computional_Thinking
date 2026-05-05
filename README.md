@@ -2,6 +2,10 @@
 
 Ứng dụng quản lý công việc đơn giản xây dựng với **FastAPI** (backend), **Streamlit** (frontend) và **Firebase** (Authentication + Firestore).
 
+## Thông tin sinh viên
+Họ tên: Phan Thế Minh Trí
+MSSV: 24120506
+
 ## 🎬 Video Demo
 
 [Link video demo](https://drive.google.com/file/d/10uGywtBLw3-iyxxP7eB8wJjCHkdqvVya/view?usp=sharing)
