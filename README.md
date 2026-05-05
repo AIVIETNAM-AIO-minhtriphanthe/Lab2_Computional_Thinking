@@ -74,6 +74,7 @@ API docs (Swagger): http://localhost:8000/docs
 ## ▶️ Chạy Frontend
 
 ```bash
+venv\Scripts\activate
 # Mở terminal mới, vào thư mục frontend
 cd frontend
 streamlit run app.py
